@@ -16,8 +16,3 @@ section {
 section h2 {
     color: green;
 }
- 
-.introduction {
-    color: red;
-    invalid-property: abc;
-}
