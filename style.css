@@ -6,3 +6,13 @@ body {
 h1 {
     color: blue;
 }
+
+section {
+    margin-top: 20px;
+    padding: 20px;
+    border: 1px solid gray;
+}
+
+section h2 {
+    color: green;
+}
